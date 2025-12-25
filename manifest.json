@@ -1,0 +1,30 @@
+{
+  "name": "Pho Mist (the9000)",
+  "manifest_version": 2,
+  "version": "1.1",
+  "theme": {
+    "images": {
+      "theme_frame": "pho-mist-bg-200.png"
+    },
+    "colors": {
+      "frame": "rgba(235, 226, 209, 1)",
+      "tab_background_text": "rgba(34, 34, 34, 1)",
+      "toolbar": "rgba(235, 226, 209, 1)",
+      "bookmark_text": "rgba(0, 0, 0, 1)",
+      "toolbar_field": "rgba(242, 236, 230, 1)",
+      "toolbar_field_text": "rgba(0, 0, 0, 1)",
+      "tab_line": "rgba(102, 153, 0, 1)",
+      "popup_highlight": "rgba(102, 153, 0, 1)",
+      "popup_highlight_text": "rgba(242, 236, 230, 1)",
+      "sidebar": "rgba(216, 198, 165, 1)",
+      "sidebar_text": "rgba(34, 34, 34, 1)",
+      "sidebar_highlight": "rgba(102, 153, 0, 1)",
+      "sidebar_highlight_text": "rgba(242, 236, 230, 1)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{2a3f10dd-ea21-4f15-b437-ac13a6f0e883}"
+    }
+  }
+}
