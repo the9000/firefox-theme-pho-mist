@@ -14,6 +14,6 @@ Small fixes are welcome. If you want radical changes, please fork this theme to 
 [the detailed picture](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/theme/themes_components_annotations.png)
 to discover the names of properties, and where they apply.
 
-* Use Firefox Nightly or Firefox Edveloper Edition to test locally, or play with `UserChrom.css`.
+* Use Firefox Nightly or Firefox Edveloper Edition to test locally, or play with `UserChrome.css`.
 
 * Submit your new version at the [Developers Hub](https://addons.mozilla.org/en-US/developers/).
