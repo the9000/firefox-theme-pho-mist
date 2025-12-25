@@ -18,4 +18,6 @@ to discover the names of properties, and where they apply.
 
 * Use Firefox Nightly or Firefox Edveloper Edition to test locally, or play with `UserChrome.css`.
 
+* Zip up the files by running `make`; this is the default `Makefile` target.`
+
 * Submit your new version at the [Developers Hub](https://addons.mozilla.org/en-US/developers/).
