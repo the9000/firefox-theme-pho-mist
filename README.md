@@ -4,6 +4,8 @@
 
 [Install from addons.mozalla.org](https://addons.mozilla.org/en-US/firefox/addon/pho-mist-the9000/).
 
+See the [Pho Earth teme at gnome-look.org](https://www.gnome-look.org/p/1467179/).
+
 I make this theme for myself, and share i for thise who find it useful.
 
 Small fixes are welcome. If you want radical changes, please fork this theme to your heart's content.
